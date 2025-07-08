@@ -1,5 +1,6 @@
 # PETV83L-V.vineel-reddy---Brute-force-attack-simulator-with-detection
 In this project, I built a simple web-based simulation of a brute force attack to demonstrate how attackers try to guess passwords by attempting many combinations. The goal was not just to simulate the attack, but also to show how we can detect and prevent such behavior using basic techniques.
+
 🔐 Brute Force Attack Simulation using Flask This project simulates a brute force attack using Python and the Flask web framework. It provides a safe and controlled environment for educational purposes to understand how brute force attacks work, how login systems respond, and how such attacks can be detected or prevented.
 
 🚀 Features A web interface to input:
